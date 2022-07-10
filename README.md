@@ -1,7 +1,7 @@
 
 # Task Manager
 
-Task Manager app built by following "Node.js / Express Course - Build 4 Projects" video.
+Task Manager app built by following "Node.js / Express Course - Build 4 Projects" video by freeCodeCamp.
 
 
 ## Run Locally
